@@ -152,3 +152,11 @@ Labs:
 Exercises:
 
 1. [Hypothesis Testing](./M4/exercises/hypothesis_ex.ipynb) (4 questions)
+
+---
+
+## References
+
+- https://openintro-ims.netlify.app/
+- https://www.coursera.org/professional-certificates/google-advanced-data-analytics
+- https://www.kaggle.com/learn/data-visualization
