@@ -5,7 +5,11 @@ description = "Applied Data Science"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+<<<<<<< HEAD
     "folium>=0.20.0",
+=======
+    "kagglehub>=1.0.0",
+>>>>>>> fc63b483356bd93c92638d5c2bce5eb88a0727f7
     "matplotlib>=3.10.8",
     "pandas>=3.0.0",
     "scikit-learn>=1.8.0",
